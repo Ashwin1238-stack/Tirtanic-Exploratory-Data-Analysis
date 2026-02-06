@@ -64,5 +64,5 @@ The Titanic dataset is excellent for beginners to practice data analysis and vis
 
 ## AUTHOR
 
-**NAME**-**ASHWIN KUMAR**
-**EMAIL**-ashwinkr676@gmail.com
+- **NAME**-**ASHWIN KUMAR**
+- **EMAIL**-ashwinkr676@gmail.com
